@@ -1,18 +1,18 @@
-= DESCRIPTION:
+# DESCRIPTION:
 Provider for working on btrfs filesystem.   
 It also deploy bash_completion script  .
 
-= REQUIREMENTS:
+# REQUIREMENTS:
 * bash_completion package.
 * btrfs-tools latest version from sources.
 
-= WARNING:
+# WARNING:
 
 You must use latest brtfs and btrfs-tools, not the one packaged by your distribution.
 
-= ATTRIBUTES: 
+# ATTRIBUTES: 
 
-= USAGE:
+# USAGE:
 
 All the function below can be called from any recipe.  
 Just include btrfs in your own recipe.
